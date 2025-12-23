@@ -5,8 +5,8 @@ pypdf==5.6.1
 python-dotenv==1.1.0
 langchain-pinecone==0.2.8
 langchain-community==0.3.26
-gunicorn
-python-3.10.13
+
+
 
 gunicorn 
-gunicorn 
+
