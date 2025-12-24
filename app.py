@@ -156,5 +156,5 @@ def chat():
 
 if __name__ == '__main__':
     # Use $PORT if provided (Render sets this env var)
-    port = int(os.environ.get("PORT", 8080))
+    port = int(os.environ.get("PORT", 7860))
     app.run(host="0.0.0.0", port=port, debug=True)
